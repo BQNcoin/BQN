@@ -1,81 +1,75 @@
-# BQN – The Digital Treasure
+# BQN – The Digital Treasure  
 
-BQN is a rare, fully decentralized token on the TON blockchain, designed to represent true scarcity, long-term value, and refined digital elegance.
-
----
-
-## 🔹 Token Details
-
-- **Token Name:** BQN
-- **Symbol:** BQNcoin
-- **Blockchain:** TON
-- **Total Supply:** 100,000 BQN
-- **Decimals:** 0
-- **Mintable:** No
-- **Burnable:** No
-- **Transferable:** Yes
-- **Staking:** Disabled
+BQN is a rare, fully decentralized token on the TON blockchain, designed to represent true scarcity, long-term value, and refined digital elegance.  
 
 ---
 
-## 💎 Jetton Details
+## 🔹 Token Details  
 
-- **Jetton Name:** BQN
-- **Jetton Symbol:** BQNcoin
-- **Jetton Master Address:** EQC2Pz4_FZmgl2jQ_wA6M4s-DqPzXkC33oHKDxzSCwvVr1sv
-
----
-
-## 🔹 Roadmap
-
-### Phase 1: Foundation (Completed)
-- Deployment of BQN on the TON blockchain
-- Fixed total supply set to 100,000 BQN
-- Minting and burning permanently disabled
-- Token metadata finalized
-- Logo prepared and optimized (100 KB)
-- GitHub repository created
-- Initial liquidity pool launched
-
-### Phase 2: Stability & Transparency (In Progress)
-- Maintain a single primary liquidity pool
-- Avoid liquidity fragmentation across multiple pools
-- Monitor price behavior and market dynamics
-- Ensure full transparency in documentation
-
-### Phase 3: Verification
-- Submit Pull Request to Tonkeeper assets repository
-- Metadata and asset review
-- Achieve Verified Token status in Tonkeeper
-
-### Phase 4: Value Maturity
-- Preserve long-term scarcity
-- Support organic trading only
-- Improve branding and documentation
-- Optional non-inflationary integrations
-
-### Phase 5: Long-Term Sustainability
-- Full decentralization
-- Community-driven transparency
-- Position BQN as a long-term digital asset
+- **Token Name:** BQN  
+- **Symbol:** BQNcoin  
+- **Blockchain:** TON  
+- **Total Supply:** 100,000 BQN  
+- **Decimals:** 0  
+- **Mintable:** No  
+- **Burnable:** No  
+- **Transferable:** Yes  
+- **Staking:** Disabled  
 
 ---
 
-## 🔹 Strategy
+## 💎 Jetton Details  
 
-- No supply expansion under any condition
-- Price determined purely by market demand
-- Liquidity managed carefully to reduce volatility
-- Long-term vision over short-term speculation
-
----
-
-## 🔹 Logo
-
-![BQN Logo](https://arweave.net/-XTcaic-zIPxz2GsF0fMVC2txIuTEPqxlvjAnJeULBo)
+- **Jetton Name:** BQN  
+- **Jetton Symbol:** BQNcoin  
+- **Jetton Master Address:** EQD3kpbV80ih8RV7Mdip7PXPZRNfiQoegYiPXkgwSr05wrnq  
 
 ---
 
-## 📜 License
+## 🔹 Roadmap  
 
-This project is licensed under the MIT License.
+### Phase 1: Foundation (Completed)  
+- Deployment of BQN on the TON blockchain  
+- Fixed total supply set to 100,000 BQN  
+- Minting and burning permanently disabled  
+- Token metadata finalized  
+- Logo prepared and optimized (100 KB)  
+- GitHub repository created  
+- Initial liquidity pool launched  
+
+### Phase 2: Stability & Transparency (In Progress)  
+- Maintain a single primary liquidity pool  
+- Avoid liquidity fragmentation across multiple pools  
+- Monitor price behavior and market dynamics  
+- Ensure full transparency in documentation  
+
+### Phase 3: Verification  
+- Submit Pull Request to Tonkeeper assets repository  
+- Metadata and asset review  
+- Achieve Verified Token status in Tonkeeper  
+
+### Phase 4: Value Maturity  
+- Preserve long-term scarcity  
+- Support organic trading only  
+- Improve branding and documentation  
+- Optional non-inflationary integrations  
+
+### Phase 5: Long-Term Sustainability  
+- Full decentralization  
+- Community-driven transparency  
+- Position BQN as a long-term digital asset  
+
+---
+
+## 🔹 Strategy  
+
+- No supply expansion under any condition  
+- Price determined purely by market demand  
+- Liquidity managed carefully to reduce volatility  
+- Long-term vision over short-term speculation  
+
+---
+
+## 🔹 Logo  
+
+![BQN Logo](https://
